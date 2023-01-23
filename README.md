@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Maheshwar21
-- 👀 I’m interested in Ai ,competitive programming & and cybersecurity,DS,ML
-- 🌱 I’m currently learning UG
-- 💞️ I’m looking for guidance on my learning skill
+- 👋 Hi, I’m @Maheshwar
+- 👀 I’m interested assembly,and something that hard to learn
+-
 
 
 
